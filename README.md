@@ -9,8 +9,7 @@ Performs statistical analysis using Pandas and NumPy
 Generates key metrics such as average ratings, price discounts, and review patterns
 
 # Tech Stack
-Python
-Pandas, NumPy, SciPy, Selection Model, Linear Model
+Python (Pandas, NumPy, SciPy, Selection Model, Linear Model)
 Jupyter Notebook
 CSV file handling
 Data preprocessing and transformation
